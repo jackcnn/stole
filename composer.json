@@ -1,0 +1,23 @@
+{
+  "name": "laolei/stole",
+  "description": "php采集html匹配",
+  "keywords": [
+    "php stole"
+  ],
+  "authors": [
+    {
+      "name": "老雷",
+      "email": "362606856@qq.com"
+    }
+  ],
+
+  "require": {
+    "php": ">=7.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Laolei\\": "src/"
+    }
+  }
+}
