@@ -7,7 +7,6 @@ $st->cutHtml('<div class="jcList">');
 $arr=$st->preg_all('<a href="({url=.*})"[^>]*>({title=.*})</a>');
 print_r($arr);
 */ 
- 
 class Stole{
 	public $content;
 	public $charset;
