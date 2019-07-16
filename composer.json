@@ -12,12 +12,14 @@
   ],
 
   "require": {
-    "php": ">=7.0"
+    "php": ">=7.0",
+    "laolei/stole": "master"
   },
   "license": "MIT",
   "autoload": {
     "psr-4": {
       "Laolei\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }

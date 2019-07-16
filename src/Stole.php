@@ -1,5 +1,5 @@
 <?php
-namespace Laolei\Stole;
+namespace Laolei;
 /*
 $st= new stole();
 $st->getContent("http://www.deituicms.com/");
