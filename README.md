@@ -15,4 +15,3 @@ $arr=$st->preg_all('<a href="({url=.*})"[^>]*>({title=.*})</a>');
 print_r($arr);
 ?>
 ```
-# 方法
